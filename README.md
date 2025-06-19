@@ -9,7 +9,7 @@ This project creates a machine learning model to operate an object detection tas
 
 This dataset consists of `5308` training and `386` validation dataset. Each dataset has images in `.jpg` format and labels in `.txt` format with the `xmin, ymin, xmax, ymax` format. Below are sample images from some of the classes present in the dataset:
 
-TODO: UPDATE - ![](./visuals/sports_classification_image.jpg?raw=true)
+![](./visuals/helmet_and_vest_dataset.png?raw=true)
 
 ---
 
@@ -46,17 +46,13 @@ Mean Average Precision: 70.98255920410156
 
 ### Inference on Images:
 
-TODO: UPDATE -
-TODO: UPDATE -
-TODO: UPDATE -
+![](./visuals/inference_helmets_and_vests.png?raw=true)
 
 ---
 
 ### Loss and mAP:
 
-TODO: UPDATE -
-TODO: UPDATE -
-TODO: UPDATE -
+![](./visuals/helmet_vest_loss_map.png?raw=true)
 
 ---
 
