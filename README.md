@@ -1,7 +1,7 @@
 # Helmets and Vests Object Detection
 
 ### Project Summary:
-This project creates a machine learning model to operate an object detection task on vehicle registration plates, using PyTorch.
+This project creates a machine learning model to operate an object detection task on vehicle registration plates, using TensorFlow.
 
 ---
 
